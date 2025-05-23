@@ -1,0 +1,21 @@
+id,email,phone
+1,user1@example.com,9876543210
+2,invalid-email@,12345
+3,user.3@mail.org,+91 9999999999
+4,.badstart@domain.com,99999-99999
+5,good.user+tag@site.co,(987)6543210
+6,user6@domain,987654321
+7,user_name@domain.co.in,+919876543210
+8,user@.badend.com,123-456-7890
+9,normal.user@website.com,9912345678
+10,user10@domain.com,123456
+11,@missinglocal.com,98765-43210
+12,valid.email@school.edu,919876543210
+13,valid_email123@gmail.com,+91 8123456789
+14,missingat.com,8123456789
+15,user15@mail..com,8000000000
+16,user16@site.com,+91-7000000000
+17,user@localhost,0000000000
+18,good.email@domain.net,7012345678
+19,user19@domain.c,901234567
+20,user20@valid.in,+91 9812345670
